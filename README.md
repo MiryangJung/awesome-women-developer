@@ -1,5 +1,5 @@
 # awesome Women Developer [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/awesome-women-developer/community.svg)](https://gitter.im/awesome-women-developer/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-List of awesome `Developer(Women)`
+List of awesome `Developer(Women)`<br>
 `여성 개발자` 리스트입니다.
 
 ![pic](https://i.ibb.co/fvMZtC0/awesome-pic.png)
